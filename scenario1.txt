@@ -1,3 +1,5 @@
 This is the beginning to solve the git challenges.
 
-changes are made for Release 1 ! Thanks 
+changes are made for Release 1 ! Thanks
+
+Adding changes for release 3  
